@@ -10,12 +10,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Building a SIEM</b>
-  - [Spunk SIEM environment](SIEM building repo link)
+  - [Spunk SIEM environment](https://github.com/SpookyLukie/SplunkLab)
 - <b>Building a Home Network</b>
-  - [CISCO Packet Tracer Virtual Network](Home Network project repo link)
+  - [CISCO Packet Tracer Virtual Network](https://github.com/SpookyLukie/PacketTracerLab)
+
+<!--
 - <b>Installing a firewall</b>
   - [Using OPNSense to secure a network](OPNSense project repo link)
-<!--
 - <b>Creating a Honeypot</b>
 -->
 
