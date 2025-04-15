@@ -2,6 +2,11 @@
   <br/>
   <a href="https://github.com/SpookyLukie">Cybersecurity student and programming enthusiast</a>
 
+<h2>📃 Certifications: </h2>
+- [CompTIA Security+](https://www.credly.com/badges/2a093426-baa9-4b29-9b95-6650010e096d/public_url)
+
+- [CompTIA A+](https://www.credly.com/badges/330a9b7c-e660-4411-b554-edf6780bd83e/public_url)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Building a SIEM</b>
