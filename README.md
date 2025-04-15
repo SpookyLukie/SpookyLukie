@@ -1,11 +1,13 @@
-<h1>Hi, I'm Luke!
-  <br/>
-  <a href="https://github.com/SpookyLukie">Cybersecurity student and programming enthusiast</a>
+<h1>Hi, I'm Luke</h1>
+  <a href="http://www.linkedin.com/in/luke-larson1727"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /<></a>
+
+I am a cybersecurity student with a penchant for self-driven learning and an aspiration to grow into the role of cybersecurity engineering.
 
 <h2>📃 Certifications: </h2>
 
-- [CompTIA Security+](https://www.credly.com/badges/2a093426-baa9-4b29-9b95-6650010e096d/public_url)
-- [CompTIA A+](https://www.credly.com/badges/330a9b7c-e660-4411-b554-edf6780bd83e/public_url)
+<a href="https://www.credly.com/badges/2a093426-baa9-4b29-9b95-6650010e096d/public_url"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white" /></a>
+
+<a href="https://www.credly.com/badges/330a9b7c-e660-4411-b554-edf6780bd83e/public_url"><img src="https://img.shields.io/badge/CompTIA%20A%2B-red?style=for-the-badge&logo=comptia&logoColor=white" /></a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
