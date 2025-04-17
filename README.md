@@ -13,7 +13,7 @@ I am a cybersecurity student with a penchant for self-driven learning and an asp
 
 - <b>Microsoft Active Directory</b>
   - [Configuring Active Directory](https://github.com/SpookyLukie/Lab-Active-Directory/blob/main/README.md)
-- <b>Building a Home Network</b>
+- <b>Building a Network</b>
   - [CISCO Packet Tracer Virtual Network](https://github.com/SpookyLukie/PacketTracerLab/blob/main/README.md)
 
 <!-- Projects in-progress
