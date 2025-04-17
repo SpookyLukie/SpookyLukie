@@ -11,15 +11,19 @@ I am a cybersecurity student with a penchant for self-driven learning and an asp
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Microsoft Active Directory</b>
+  - [Configuring Active Directory](https://github.com/SpookyLukie/Lab-Active-Directory/blob/main/README.md)
+
+<!-- Projects in-progress
+
 - <b>Building a SIEM</b>
   - [Spunk SIEM environment](https://github.com/SpookyLukie/SplunkLab)
 - <b>Building a Home Network</b>
   - [CISCO Packet Tracer Virtual Network](https://github.com/SpookyLukie/PacketTracerLab)
-
-<!--
 - <b>Installing a firewall</b>
   - [Using OPNSense to secure a network](OPNSense project repo link)
 - <b>Creating a Honeypot</b>
+
 -->
 
 <h2>Connect with me:</h2>
