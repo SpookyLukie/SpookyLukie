@@ -1,7 +1,7 @@
 <h1>Hi, I'm Luke</h1>
   <a href="http://www.linkedin.com/in/luke-larson1727"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /<></a>
 
-I am a cybersecurity student with a penchant for self-driven learning and an aspiration to grow into the role of cybersecurity engineering.
+I am a cybersecurity student with a penchant for self-driven learning and an aspiration to learn in the field of information technology with a focus on security.
 
 <h2>📃 Certifications: </h2>
 
@@ -13,13 +13,13 @@ I am a cybersecurity student with a penchant for self-driven learning and an asp
 
 - <b>Microsoft Active Directory</b>
   - [Configuring Active Directory](https://github.com/SpookyLukie/Lab-Active-Directory/blob/main/README.md)
+- <b>Building a Home Network</b>
+  - [CISCO Packet Tracer Virtual Network](https://github.com/SpookyLukie/PacketTracerLab/blob/main/README.md)
 
 <!-- Projects in-progress
 
 - <b>Building a SIEM</b>
   - [Spunk SIEM environment](https://github.com/SpookyLukie/SplunkLab)
-- <b>Building a Home Network</b>
-  - [CISCO Packet Tracer Virtual Network](https://github.com/SpookyLukie/PacketTracerLab)
 - <b>Installing a firewall</b>
   - [Using OPNSense to secure a network](OPNSense project repo link)
 - <b>Creating a Honeypot</b>
