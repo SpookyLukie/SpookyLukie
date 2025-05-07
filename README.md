@@ -1,7 +1,7 @@
 <h1>Hi, I'm Luke</h1>
   <a href="http://www.linkedin.com/in/luke-larson1727"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /<></a>
 
-I am a cybersecurity student with a penchant for self-driven learning and an aspiration to learn in the field of information technology with a focus on security.
+I am a cybersecurity student with a penchant for self-driven learning and an aspiration to develop my skills in the field of information technology with a focus on cloud solutions.
 
 <h2>📃 Certifications: </h2>
 
